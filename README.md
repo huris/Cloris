@@ -30,7 +30,7 @@
 2. 处理器执行语法分析处理，把单词的排列转换为抽象语法树。
 3. 编译器会把抽象语法树转换为其他语言，而解释器将会一边分析抽象语法树一边执行运算。
 
-<img src="https://huris.oss-cn-hangzhou.aliyuncs.com/program/Cloris/language%20processor.png" width=50%>
+<img src="images/language processor.png" alt="language processor" style="zoom:50%;" />
 
 
 
