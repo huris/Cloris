@@ -30,7 +30,7 @@
 2. 处理器执行语法分析处理，把单词的排列转换为抽象语法树。
 3. 编译器会把抽象语法树转换为其他语言，而解释器将会一边分析抽象语法树一边执行运算。
 
-<img src="images/%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%99%A8%E7%9A%84%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%9C.png" alt="语言处理器的内部结果" style="zoom:50%;" />
+<img src="images/language processor.png" width=50%>
 
 
 
